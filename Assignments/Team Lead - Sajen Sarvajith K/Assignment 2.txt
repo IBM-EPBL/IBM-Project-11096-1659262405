@@ -1,0 +1,3 @@
+Below is the IBM Cognos Dashboard link for assignment-2:
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment-2&action=view&mode=dashboard&subView=model000001841e28ddfc_00000001
